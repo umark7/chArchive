@@ -3,4 +3,4 @@ The goal of this project is to create a web app where the user can search throug
 
 We will create a web scraping coded in python to get these first 6 elements from the following webites automatically: https://www.xprize.org/ and https://www.challenge.gov/. We are coding this part so that the database will automatically update when new challenges are added. One vulnerability is that if either of these websites change formatting, then our code will no longer crawl that website propperly.
 
-We plan to label each challenge with a subject through a test and train machine learning algorithm.
+We plan to label each challenge with a subject and are still determining how to do that.
